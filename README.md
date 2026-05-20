@@ -41,10 +41,10 @@ Rstudio / R
 Python 3.12.10
 ### Packages
 #### Python packages
-
+This project uses Python version 3.12.10
+pip install pandas numpy bertopic sentence-transformers umap-learn hdbscan scikit-learn scipy opencv-python ultralytics pyktok tqdm
 #### R packages
-Als je de packages nog niet hebt:
-
+If you need to download the R packages, run:
 install.packages(c(
   "jsonlite", "readr", "dplyr", "tidyverse",
   "readxl", "writexl", "ggplot2",
