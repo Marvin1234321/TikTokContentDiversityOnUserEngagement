@@ -42,15 +42,16 @@ Python 3.12.10
 ### Packages
 #### Python packages
 This project uses Python version 3.12.10
-pip install pandas numpy bertopic sentence-transformers umap-learn hdbscan scikit-learn scipy opencv-python ultralytics pyktok tqdm
+
+*pip install pandas numpy bertopic sentence-transformers umap-learn hdbscan scikit-learn scipy opencv-python ultralytics pyktok tqdm*
 #### R packages
 If you need to download the R packages, run:
-install.packages(c(
+*install.packages(c(
   "jsonlite", "readr", "dplyr", "tidyverse",
   "readxl", "writexl", "ggplot2",
   "e1071", "purrr", "tibble",
   "plm", "fixest"
-))
+))*
 ## AI-Assisted Development
 
 This repository was developed with support from AI language models, including ChatGPT and Claude, for assistance with programming tasks, workflow optimization, troubleshooting, and documentation. AI-generated suggestions were reviewed, adapted, and validated within the context of the research methodology and thesis objectives.
