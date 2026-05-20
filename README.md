@@ -35,5 +35,13 @@ Before starting with datapreparation.R. Add 2 datapoints that are not able to sc
 1: Add an var_seek (0 if user has a low level of variety-seeking and a 1 if a user has a high level of variety-seeking, based on a survey)
 
 ## Programs and packages
+Rstudio / R
 Python 3.12.10
 ### Packages
+#### Python packages
+
+#### R packages
+
+## AI-Assisted Development
+
+This repository was developed with support from AI language models, including ChatGPT and Claude, for assistance with programming tasks, workflow optimization, troubleshooting, and documentation. AI-generated suggestions were reviewed, adapted, and validated within the context of the research methodology and thesis objectives.
