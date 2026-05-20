@@ -29,11 +29,11 @@ The reporting stage is not taken into account into this repository. We added for
 ## Work to do by hand
 Data is in a format JSON from Tilburg University data format. Change the name in the first R script downloading_data_files to the input file of your input.
 
-Before process3.Py
-1: Add an ID per respondent
+Before process3.Py <br>
+1: Add an ID per respondent <br>
 2: Add all personal files together 
 
-Before starting with datapreparation.R. Add 2 datapoints that are not able to scrape or can't be obtained by the data.
+Before starting with datapreparation.R. Add 2 datapoints that are not able to scrape or can't be obtained by the data. <br>
 1: Add an var_seek (0 if user has a low level of variety-seeking and a 1 if a user has a high level of variety-seeking, based on a survey)
 
 ## Programs and packages
@@ -41,11 +41,11 @@ Rstudio / R
 Python 3.12.10
 ### Packages
 #### Python packages
-This project uses Python version 3.12.10
+This project uses Python version 3.12.10 <br>
 
 *pip install pandas numpy bertopic sentence-transformers umap-learn hdbscan scikit-learn scipy opencv-python ultralytics pyktok tqdm*
 #### R packages
-If you need to download the R packages, run:
+If you need to download the R packages, run: <br>
 *install.packages(c(
   "jsonlite", "readr", "dplyr", "tidyverse",
   "readxl", "writexl", "ggplot2",
