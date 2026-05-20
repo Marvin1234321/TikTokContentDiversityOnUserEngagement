@@ -43,7 +43,14 @@ Python 3.12.10
 #### Python packages
 
 #### R packages
+Als je de packages nog niet hebt:
 
+install.packages(c(
+  "jsonlite", "readr", "dplyr", "tidyverse",
+  "readxl", "writexl", "ggplot2",
+  "e1071", "purrr", "tibble",
+  "plm", "fixest"
+))
 ## AI-Assisted Development
 
 This repository was developed with support from AI language models, including ChatGPT and Claude, for assistance with programming tasks, workflow optimization, troubleshooting, and documentation. AI-generated suggestions were reviewed, adapted, and validated within the context of the research methodology and thesis objectives.
