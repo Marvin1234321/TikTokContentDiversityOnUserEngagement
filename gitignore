@@ -1,0 +1,32 @@
+# Data files
+*.txt
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.xlsm
+*.json
+*.rds
+*.RData
+*.parquet
+*.feather
+
+# R / RStudio
+
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+*.Rproj
+
+# Logs & tijdelijke bestanden
+
+*.log
+*.tmp
+*.bak
+*.swp
+
+#OSFiles
+.DS_Store
+Thumbs.db
+ehthumbs.db
