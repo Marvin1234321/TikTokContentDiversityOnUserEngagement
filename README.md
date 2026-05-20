@@ -20,6 +20,8 @@ Included visualizations demonstrate relationships between semantic diversity and
 
 This repository is intended to provide a transparent and reproducible workflow for computational social science research on short-form video consumption, recommendation systems, and digital media behavior.
 
+The reporting stage is not taken into account into this repository. We added for analysis an analysis R file and a visualization and descriptive statistics file. The reporting is taken into account to into the thesis.
+
 ## Script to run in the following order following to the image
 <img src="images/Picture1.png" width="800">
 
