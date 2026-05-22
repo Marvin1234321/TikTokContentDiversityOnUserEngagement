@@ -25,6 +25,8 @@ The reporting stage is not taken into account into this repository. We added for
 ## Script to run in the following order following to the image
 <img src="images/Picture1.png" width="800">
 
+## Disclaimer:
+The JSON file used in Step 1 follows the data structure and formatting conventions of Tilburg University. Raw data files from other sources or institutions may differ in structure, naming conventions, or field availability, and might therefore require adjustments before use.
 
 ## Work to do by hand
 Data is in a format JSON from Tilburg University data format. Change the name in the first R script downloading_data_files to the input file of your input.
